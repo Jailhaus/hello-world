@@ -1,4 +1,3 @@
 # hello-world
-A repository.
-Hello,
+Hello,\n
 My name is Jack. I enjoy coding. The end.
