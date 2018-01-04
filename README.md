@@ -1,3 +1,3 @@
 # hello-world
-Hello,<\n>
-My name is Jack. I enjoy coding. The end.
+Hello,
+my name is Jack. I enjoy coding. The end.
